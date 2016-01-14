@@ -22,7 +22,7 @@ Require javascript plugin on your `application.js`
 
     //= require notifyjs_rails
 
-And só in `somefile.js` you can do this:
+And in `somefile.js` you can do this:
 
     $.notify('My message');
 
